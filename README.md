@@ -10,6 +10,22 @@ En este repositorio se subirán los contenidos que veremos clase a clase
 Docente: _Bastián Olea Herrera._ baolea@uc.cl
 
 
+## Contenidos
+
+### Clase 1:
+- cargar datos
+- seleccionar datos
+- filtrar datos 
+- ordenar datos 
+- crear nuevas variables
+- recodificar variables
+- operaciones agrupadas
+- resúmenes estadísticos
+
+
+### Clase 2:
+
+
 ----
 
 ## Datos 
