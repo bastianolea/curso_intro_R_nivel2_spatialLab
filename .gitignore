@@ -4,3 +4,5 @@
 .Ruserdata
 .DS_Store
 datos/250117-ii-enut-bdd-stata.dta
+*.key
+.key
