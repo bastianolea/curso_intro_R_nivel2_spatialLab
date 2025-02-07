@@ -24,6 +24,16 @@ Docente: _Bastián Olea Herrera._ baolea@uc.cl
 
 
 ### Clase 2:
+- conteos
+- limpiar datos
+- modificar múltiples columnas a la vez
+- datos perdidos
+- filtrar datos perdidos
+- rellenar datos perdidos
+- completar observaciones
+- pivotar datos hacia formato largo y ancho
+- unir tablas con left join
+- calcular porcentajes
 
 
 ----
