@@ -1,11 +1,13 @@
 # introducción al análisis de datos con R para principiantes
 # nivel 2: Manipulación de bases de datos en R
 # clase 1
+# contacto: Bastián Olea Herrera - baolea@uc.cl - https://bastianolea.rbind.io
 
 # cargar datos ----
 
 # instalar paquetes
 install.packages("readxl")
+# hay que instalar los paquetes una sola vez en nuestro computador para luego poder cargarlos
 
 # cargar un paquete
 library("readxl")

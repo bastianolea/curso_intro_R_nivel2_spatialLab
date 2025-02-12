@@ -1,6 +1,12 @@
-# cargar un paquete
+# introducción al análisis de datos con R para principiantes
+# nivel 2: Manipulación de bases de datos en R
+# clase 2
+# contacto: Bastián Olea Herrera - baolea@uc.cl - https://bastianolea.rbind.io
+
+# cargar paquetes
 library("readxl")
 library("dplyr")
+# recordemos que tienen que haber sido previamente instalados para poder cargarlos
 
 # cargar un archivo excel con datos de campamentos
 datos <- read_excel("datos/campamentos_chile_2024.xlsx")
