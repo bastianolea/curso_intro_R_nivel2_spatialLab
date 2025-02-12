@@ -36,6 +36,18 @@ Docente: _Bastián Olea Herrera._ baolea@uc.cl
 - calcular porcentajes
 
 
+### Clase 3:
+- variables en formato texto
+- filtrar en base a texto parcial
+- reemplazar texto
+- eliminar texto
+- extraer cifras desde el texto
+- expresiones regulares (regex)
+- variables en formato fecha
+- agregar filas y columnas
+- ejercicios en datos reales
+ 
+
 ----
 
 ## Datos 
